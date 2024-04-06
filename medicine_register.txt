@@ -1,0 +1,69 @@
+Name: 灏忕孩, Medicine: 鑽搧A, Quantity: 2, Date: 2024-03-29 23:28:39
+Name: 小红, Medicine: 药品A, Quantity: 1, Date: 2024-03-29 23:52:25
+Name: 小红, Medicine: 药品B, Quantity: 50, Date: 2024-03-30 00:36:55
+Name: , Medicine: 药品B, Quantity: 60, Date: 2024-03-30 00:37:29
+Name: 小红, Medicine: 药品B, Quantity: 100, Date: 2024-03-30 00:41:29
+Name: 小红, Medicine: 药品D, Quantity: 100, Date: 2024-03-30 00:45:52
+Name: 小红, Medicine: 药品A, Quantity: 50, Date: 2024-03-30 00:46:09
+Name: 小红, Medicine: 药品B, Quantity: 1, Date: 2024-03-30 01:26:12
+Name: 小红, Medicine: 药品B, Quantity: 1, Date: 2024-03-30 01:26:26
+Name: 小红, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:42:59
+Name: , Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:43:13
+Name: , Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:43:15
+Name: , Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:43:16
+Name: , Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:43:16
+Name: , Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:43:16
+Name: , Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:43:16
+Name: , Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:43:17
+Name: , Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:46:20
+Name: 小红, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:50:06
+Name: 小红, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:50:09
+Name: 小基, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 01:50:48
+Name: 小红, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 18:15:35
+Name: 紫君, Medicine: 药品F, Quantity: 9, Date: 2024-03-30 18:21:26
+Name: 紫君, Medicine: 药品D, Quantity: 3, Date: 2024-03-30 18:23:59
+Name: 小基, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 20:50:25
+Name: 小基, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 20:57:22
+Name: xiao 基, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 20:57:52
+Name: xiao 基, Medicine: 药品C, Quantity: 1, Date: 2024-03-30 20:57:59
+Name: xiao 基, Medicine: 药品D, Quantity: 1, Date: 2024-03-30 20:58:02
+Name: xiao 基, Medicine: 药品F, Quantity: 1, Date: 2024-03-30 20:58:04
+Name: 小基, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 21:00:30
+Name: 小基, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 21:00:33
+Name: 小基, Medicine: 药品C, Quantity: 1, Date: 2024-03-30 21:00:45
+Name: xiao ji, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 21:05:34
+Name: xiao ji, Medicine: 药品C, Quantity: 1, Date: 2024-03-30 21:06:48
+Name: xiao ji, Medicine: 药品C, Quantity: 1, Date: 2024-03-30 21:06:54
+Name: 小基, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 21:11:26
+Name: 小基, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 21:14:29
+Name: 小基, Medicine: 药品C, Quantity: 1, Date: 2024-03-30 21:14:37
+Name: 小基, Medicine: 药品F, Quantity: 4, Date: 2024-03-30 21:14:51
+Name: 小基, Medicine: 药品A, Quantity: 4, Date: 2024-03-30 21:14:58
+Name: 小基, Medicine: 药品C, Quantity: 4, Date: 2024-03-30 21:15:01
+Name: 小基, Medicine: 药品C, Quantity: 4, Date: 2024-03-30 21:15:34
+Name: 小基, Medicine: 药品C, Quantity: 4, Date: 2024-03-30 21:15:41
+Name: 小基, Medicine: 药品C, Quantity: 4, Date: 2024-03-30 21:16:23
+姓名: , 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:18:00
+姓名: xiao ji, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:20:04
+姓名: xiao ji, 药品: 药品C, 数量: 1, 时间: 2024-03-30 21:20:06
+姓名: xiao ji, 药品: 药品C, 数量: 1, 时间: 2024-03-30 21:20:09
+姓名: xiao ji, 药品: 药品C, 数量: 1, 时间: 2024-03-30 21:20:16
+姓名: xiao ji, 药品: 药品F, 数量: 1, 时间: 2024-03-30 21:20:19
+姓名: xiao ji, 药品: 药品F, 数量: 1, 时间: 2024-03-30 21:20:29
+姓名: xiao ji, 药品: 药品F, 数量: 1, 时间: 2024-03-30 21:20:35
+姓名: xiao ji, 药品: 药品F, 数量: 1, 时间: 2024-03-30 21:20:36
+姓名: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:21:57
+姓名: 小基, 药品: 药品C, 数量: 80, 时间: 2024-03-30 21:22:03
+姓名: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:22:47
+姓名: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:22:49
+姓名: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:22:50
+姓名: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:22:51
+Registrant: , Name: 小基, Medicine: 药品C, Quantity: 1, Date: 2024-03-30 21:24:55
+Registrant: 吴浩基, Name: 小基, Medicine: 药品A, Quantity: 1, Date: 2024-03-30 21:32:39
+登记人: 吴浩基, 姓名: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:38:45
+登记人: , 姓名: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:40:42
+登记人: 吴浩基, 姓名: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:40:51
+登记人: 吴浩基, 姓名: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:41:01
+登记人: 吴浩基, 姓名: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:41:23
+登记人: 吴浩基, 病人: 小基, 药品: 药品A, 数量: 1, 时间: 2024-03-30 21:46:03
+登记人: 吴浩基, 病人: 小基, 药品: 药品A, 数量: 2, 时间: 2024-03-30 21:46:29
