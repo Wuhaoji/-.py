@@ -61,7 +61,4 @@ if st.button('提交'):
     except ValueError:
         st.write('请输入有效的数字')
 
-# 显示历史记录
-st.write("历史记录:")
-for record in st.session_state.history:
-    st.write(record)
+
